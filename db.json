@@ -4,6 +4,7 @@
     "id": 1,
     "titulo": "profesor javascript",
     "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dictum dolor. Sed nec fermentum lacus. Vivamus non nisl suscipit urna ullamcorper vestibulum et a sem. Pellentesque dolor lorem, semper ut blandit ut, tempus fringilla mauris. Duis ut eros tellus."
+  },
   {
     "id": 2,
     "titulo": "profesor bootstrap",
@@ -14,4 +15,5 @@
     "titulo": "profesor python",
     "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dictum dolor. Sed nec fermentum lacus. Vivamus non nisl suscipit urna ullamcorper vestibulum et a sem.  Aliquam accumsan erat id felis viverra sagittis. Phasellus laoreet mauris id auctor rutrum."
   }
-]}
+]
+}
