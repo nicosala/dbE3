@@ -15,5 +15,28 @@
     "titulo": "profesor python",
     "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dictum dolor. Sed nec fermentum lacus. Vivamus non nisl suscipit urna ullamcorper vestibulum et a sem.  Aliquam accumsan erat id felis viverra sagittis. Phasellus laoreet mauris id auctor rutrum."
   }
+],
+  "postulantes":[
+  {
+    "id": 1,
+    "nombre": "fernando",
+    "apellido": "Ramos",
+    "dni": "12345678",
+    "curriculum": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dictum dolor. Sed nec fermentum lacus. Vivamus non nisl suscipit urna ullamcorper vestibulum et a sem. Pellentesque dolor lorem, semper ut blandit ut, tempus fringilla mauris. Duis ut eros tellus."
+  },
+  {
+    "id": 2,
+    "nombre": "francisco",
+    "apellido": "perez",
+    "dni": "23456789",
+    "curriculum": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dictum dolor.  Pellentesque dolor lorem, semper ut blandit ut, tempus fringilla mauris. Duis ut eros tellus. Aliquam accumsan erat id felis viverra sagittis. Phasellus laoreet mauris id auctor rutrum."
+  },
+  {
+    "id": 3,
+    "nombre": "juan",
+    "apellido": "valdez",
+    "dni": "34567891",
+    "curriculum": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dictum dolor. Sed nec fermentum lacus. Vivamus non nisl suscipit urna ullamcorper vestibulum et a sem.  Aliquam accumsan erat id felis viverra sagittis. Phasellus laoreet mauris id auctor rutrum."
+  }
 ]
 }
